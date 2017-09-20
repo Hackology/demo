@@ -9,11 +9,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  },
-  
-  "Summary":[
+  "Summary": [
   {"Id": 1},
   {"Id": 2},
   {"Id": 3},
@@ -23,5 +19,8 @@
   {"Id": 7},
   {"Id": 8},
   {"Id": 9}
-  ]
+  ],
+    "profile": {
+    "name": "typicode"
+  }
 }
