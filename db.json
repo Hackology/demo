@@ -30,7 +30,7 @@
       {"Id": 7, "ChannelId": 1, "Name": "Item from External REST call", "ImagePreview": " ", "FilePath": "http://image.superchevy.com/f/139281967+w640+h426+q80+re0+cr1+ar0+st0/2017-rolex-24-hours-corvette-mid-engine-revolution-002.jpg"},
       {"Id": 8, "ChannelId": 1, "Name": "Item from External REST call", "ImagePreview": " ", "FilePath": "http://i.dailymail.co.uk/i/pix/2016/12/02/00/3AF1922800000578-0-_It_s_Top_Gear_on_steroids_Episode_three_of_The_Grand_Tour_saw_J-m-112_1480639724559.jpg"},
       {"Id": 9, "ChannelId": 1, "Name": "Item from External REST call", "ImagePreview": " ", "FilePath": "http://st.automobilemag.com/uploads/sites/11/2017/05/2017-Mazda3-Grand-Touring-Rear-Three-Quarter.jpg"}
-             ], 
+             ],
   "profile": {
   "name": "typicode"
   }
