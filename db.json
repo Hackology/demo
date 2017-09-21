@@ -19,9 +19,11 @@
   {"Id": 7},
   {"Id": 8},
   {"Id": 9},
-  {"Id": 100},    
+  {"Id": 100}
   ],
-   
+    "Items": { 
+  "Id": 100, "ChannelId": 1, "Name": "Item from External REST call", "ImagePreview": " ", "FilePath": "https://upload.wikimedia.org/wikipedia/commons/1/19/RTVE_Testcard.jpg"
+}, 
   "profile": {
   "name": "typicode"
   }
