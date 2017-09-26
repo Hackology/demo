@@ -2,7 +2,7 @@
 "itemSummary": [
       
       {
-          "fid": "1",
+          "fid": "1.1",
           "version": 1,
           "md5": "AHSCOWQA912S129S"
       }
@@ -10,7 +10,7 @@
 
    "items":
       {  
-         "fid":"1",
+         "fid":"1.1",
          "channelId":"1",
          "name":"Item 1.1 from External REST call",
          "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/1/19/RTVE_Testcard.jpg",
