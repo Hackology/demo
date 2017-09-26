@@ -8,7 +8,7 @@
       }
   ],
 
-   "items":
+   "items":[
       {  
          "fid":"1.1",
          "identifier":"IdoftheElement 1.1. Large string",
@@ -20,6 +20,84 @@
          "filePath":"https://upload.wikimedia.org/wikipedia/commons/1/19/RTVE_Testcard.jpg",
          "md5":"AHSCOWQA912S129S"
       },
+      {             
+         "fid":"1.2",
+         "identifier":"IdoftheElement 1.2. Large string",
+         "version": 1,
+         "channelId":"1",
+         "name":"Item 1.2 from External REST call",
+         "notes":"Some notes here",
+         "thumbnail":"https://thumbs.dreamstime.com/z/tv-transmission-test-card-3552906.jpg",
+         "FilePath":"https://thumbs.dreamstime.com/z/tv-transmission-test-card-3552906.jpg",
+         "md5":"AHSCOWQA912S129S"
+      },
+      {             
+         "fid":"2",
+         "identifier":"IdoftheElement 2. Large string",
+         "version":1,
+         "channelId":"1",
+         "name":"Item 2 from External REST call",
+         "notes":"Some notes here",
+         "thumbnail":"https://upload.wikimedia.org/wikipedia/en/a/af/Two_Marcos_Mantis_Challenge_race_cars.jpg",
+         "FilePath":"https://upload.wikimedia.org/wikipedia/en/a/af/Two_Marcos_Mantis_Challenge_race_cars.jpg",
+         "md5":"AHSCOWQA912S129S"
+      },
+      {        
+         "fid":"3",
+         "identifier":"IdoftheElement 3. Large string",
+         "version":1,
+         "channelId":"1",
+         "name":"Item 3 from External REST call",
+         "notes":"Some notes here",
+         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/9/90/2004_Peugeot_907_photo_2.JPG",
+         "FilePath":"https://upload.wikimedia.org/wikipedia/commons/9/90/2004_Peugeot_907_photo_2.JPG",
+         "md5":"AHSCOWQA912S129S"      
+      },
+      {       
+         "fid":"4",
+         "identifier":"IdoftheElement 4. Large string",
+         "version":1,
+         "channelId":"1",
+         "name":"Item 4 from External REST call",
+         "notes":"Some notes here",
+         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_018.jpg",
+         "FilePath":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_018.jpg",
+         "md5":"AHSCOWQA912S129S"       
+      },
+      {            
+         "fid":"5",
+         "identifier":"IdoftheElement 5. Large string",
+         "version":1,
+         "channelId":"1",
+         "name":"Item 5 from External REST call",
+         "notes":"Some notes here",
+         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/d/d2/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_014.jpg",
+         "FilePath":"https://upload.wikimedia.org/wikipedia/commons/d/d2/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_014.jpg",
+         "md5":"AHSCOWQA912S129S"     
+      },
+      {            
+         "fid":"6",
+         "identifier":"IdoftheElement 3. Large string",
+         "version":1,
+         "channelId":"1",
+         "name":"Item 6 from External REST call",
+         "notes":"Some notes here",
+         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_016.jpg",
+         "FilePath":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_016.jpg",
+         "md5":"AHSCOWQA912S129S"      
+      },
+      {             
+         "fid":"7",
+         "identifier":"IdoftheElement 7. Large string",
+         "version":1,
+         "channelId":"1",
+         "name":"Item 7 from External REST call",
+         "notes":"Some notes here",
+         "thumbnail":"https://drivingtothefuture.files.wordpress.com/2011/11/ferdinand-porsche-1903-lohner-porsche.jpg",
+         "FilePath":"https://drivingtothefuture.files.wordpress.com/2011/11/ferdinand-porsche-1903-lohner-porsche.jpg",
+         "md5":"AHSCOWQA912S129S"      
+      }
+   ],
   
   "channels":[
       
