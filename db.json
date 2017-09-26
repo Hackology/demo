@@ -11,10 +11,14 @@
    "items":
       {  
          "fid":"1.1",
+         "identifier":"IdoftheElement 1.1. Large string",
+         "version": 1,
          "channelId":"1",
          "name":"Item 1.1 from External REST call",
+         "notes":"Some notes here",
          "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/1/19/RTVE_Testcard.jpg",
-         "filePath":"https://upload.wikimedia.org/wikipedia/commons/1/19/RTVE_Testcard.jpg"
+         "filePath":"https://upload.wikimedia.org/wikipedia/commons/1/19/RTVE_Testcard.jpg",
+         "md5":"AHSCOWQA912S129S"
       },
   
   "channels":[
