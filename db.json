@@ -5,49 +5,41 @@
           "version": 1,
           "md5": "AHSCOWQA912S129S"
       },
-      
       {
           "fid": "1.2",
           "version": 1,
           "md5": "AHSCOWQA912S129S"
-      },
-      
+      },    
       {
           "fid": "2",
           "version": 1,
           "md5": "AHSCOWQA912S129S"
-      },
-      
+      },      
       {
           "fid": "3",
           "version": 1,
           "md5": "AHSCOWQA912S129S"
-      },
-      
+      },      
       {
           "fid": "4",
           "version": 1,
           "md5": "AHSCOWQA912S129S"
-      },
-      
+      },     
       {
           "fid": "5",
           "version": 1,
           "md5": "AHSCOWQA912S129S"
-      },
-      
+      },    
       {
           "fid": "6",
           "version": 1,
           "md5": "AHSCOWQA912S129S"
-      },
-      
+      },     
       {
           "fid": "7",
           "version": 1,
           "md5": "AHSCOWQA912S129S"
-      }
-  
+      } 
   ],
 
    "items":[
@@ -83,7 +75,6 @@
          "thumbnail":"https://upload.wikimedia.org/wikipedia/en/a/af/Two_Marcos_Mantis_Challenge_race_cars.jpg",
          "FilePath":"https://upload.wikimedia.org/wikipedia/en/a/af/Two_Marcos_Mantis_Challenge_race_cars.jpg",
          "md5":"AHSCOWQA912S129S"
-
       },
       {
          "fid":"3",
@@ -94,8 +85,7 @@
          "notes":"Some notes here",
          "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/9/90/2004_Peugeot_907_photo_2.JPG",
          "FilePath":"https://upload.wikimedia.org/wikipedia/commons/9/90/2004_Peugeot_907_photo_2.JPG",
-         "md5":"AHSCOWQA912S129S"
-        
+         "md5":"AHSCOWQA912S129S"      
       },
       {
          "fid":"4",
@@ -106,8 +96,7 @@
          "notes":"Some notes here",
          "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_018.jpg",
          "FilePath":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_018.jpg",
-         "md5":"AHSCOWQA912S129S"
-        
+         "md5":"AHSCOWQA912S129S"       
       },
       {
          "fid":"5",
@@ -118,8 +107,7 @@
          "notes":"Some notes here",
          "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/d/d2/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_014.jpg",
          "FilePath":"https://upload.wikimedia.org/wikipedia/commons/d/d2/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_014.jpg",
-         "md5":"AHSCOWQA912S129S"
-        
+         "md5":"AHSCOWQA912S129S"     
       },
       {
          "fid":"6",
@@ -130,8 +118,7 @@
          "notes":"Some notes here",
          "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_016.jpg",
          "FilePath":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_016.jpg",
-         "md5":"AHSCOWQA912S129S"
-        
+         "md5":"AHSCOWQA912S129S"      
       },
       {
          "fid":"7",
@@ -142,8 +129,7 @@
          "notes":"Some notes here",
          "thumbnail":"https://drivingtothefuture.files.wordpress.com/2011/11/ferdinand-porsche-1903-lohner-porsche.jpg",
          "FilePath":"https://drivingtothefuture.files.wordpress.com/2011/11/ferdinand-porsche-1903-lohner-porsche.jpg",
-         "md5":"AHSCOWQA912S129S"
-        
+         "md5":"AHSCOWQA912S129S"      
       }
   ],
   
@@ -153,37 +139,31 @@
           "id": "1",
           "name": "channel 1",
           "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.iconexperience.com%2F_img%2Fo_collection_png%2Fgreen_dark_grey%2F512x512%2Fplain%2Fmicroscope.png"
-        },
-        
+        },      
         {
           "id": "2",
           "name": "channel 2",
           "image": "https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconexperience.com%2F_img%2Fo_collection_png%2Fgreen_dark_grey%2F512x512%2Fplain%2Fobjects_exchange.png"
-        },
-        
+        },       
         {
           "id": "3",
           "name": "channel 3",
           "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.iconexperience.com%2F_img%2Fo_collection_png%2Fgreen_dark_grey%2F512x512%2Fplain%2Fwhistle_noise.png"
-        },
-        
+        },        
         {
           "id": "4",
           "name": "channel 4",
           "image": "https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconexperience.com%2F_img%2Fo_collection_png%2Fgreen_dark_grey%2F512x512%2Fplain%2Fworkstation.png"
-        },
-        
+        },       
         {
           "id": "5",
           "name": "channel 5",
           "image": "https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconexperience.com%2F_img%2Fo_collection_png%2Fgreen_dark_grey%2F512x512%2Fplain%2Fcashier.png"
-        },
-        
+        },       
         {
           "id": "6",
           "name": "channel 6",
           "image": "https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconexperience.com%2F_img%2Fo_collection_png%2Fgreen_dark_grey%2F512x512%2Fplain%2Fbicycle.png"
         }
-
     ]
 }
