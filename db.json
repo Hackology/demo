@@ -19,17 +19,6 @@
          "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/1/19/RTVE_Testcard.jpg",
          "filePath":"https://upload.wikimedia.org/wikipedia/commons/1/19/RTVE_Testcard.jpg",
          "md5":"AHSCOWQA912S129S"
-      },
-      {             
-         "fid":"1.2",
-         "identifier":"IdoftheElement 1.2. Large string",
-         "version": 2,
-         "channelId":"1",
-         "name":"Item 1.2 from External REST call",
-         "notes":"Some notes here",
-         "thumbnail":"https://thumbs.dreamstime.com/z/tv-transmission-test-card-3552906.jpg",
-         "FilePath":"https://thumbs.dreamstime.com/z/tv-transmission-test-card-3552906.jpg",
-         "md5":"AHSCOWQA912S129S"
       }
    ],
   
