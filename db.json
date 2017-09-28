@@ -139,32 +139,32 @@
         {
           "fid": "1",
           "name": "channel 1",
-          "image": "https://www.iconexperience.com/_img/o_collection_png/green_dark_grey/128x128/plain/microscope.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/signboard_for_rent.png"
         },      
         {
           "fid": "2",
           "name": "channel 2",
-          "image": "https://www.iconexperience.com/_img/o_collection_png/green_dark_grey/128x128/plain/scientist.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/signboard_for_sale.png"
         },       
         {
           "fid": "3",
           "name": "channel 3",
-          "image": "https://www.iconexperience.com/_img/o_collection_png/green_dark_grey/128x128/plain/user_earth.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/signboard_sold.png"
         },        
         {
           "fid": "4",
           "name": "channel 4",
-          "image": "https://www.iconexperience.com/_img/o_collection_png/green_dark_grey/128x128/plain/factory.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/houses.png"
         },       
         {
           "fid": "5",
           "name": "channel 5",
-          "image": "https://www.iconexperience.com/_img/o_collection_png/green_dark_grey/128x128/plain/lightbulb_on.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/office_building2.png"
         },       
         {
           "fid": "6",
           "name": "channel 6",
-          "image": "https://www.iconexperience.com/_img/o_collection_png/green_dark_grey/128x128/plain/wind_engine.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/shelf_full.png"
         }
     ]
 }
