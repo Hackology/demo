@@ -139,32 +139,32 @@
         {
           "fid": "1",
           "name": "channel 1",
-          "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.iconexperience.com%2F_img%2Fo_collection_png%2Fgreen_dark_grey%2F512x512%2Fplain%2Fmicroscope.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/green_dark_grey/128x128/plain/microscope.png"
         },      
         {
           "fid": "2",
           "name": "channel 2",
-          "image": "https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconexperience.com%2F_img%2Fo_collection_png%2Fgreen_dark_grey%2F512x512%2Fplain%2Fobjects_exchange.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/green_dark_grey/128x128/plain/scientist.png"
         },       
         {
           "fid": "3",
           "name": "channel 3",
-          "image": "https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.iconexperience.com%2F_img%2Fo_collection_png%2Fgreen_dark_grey%2F512x512%2Fplain%2Fwhistle_noise.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/green_dark_grey/128x128/plain/user_earth.png"
         },        
         {
           "fid": "4",
           "name": "channel 4",
-          "image": "https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconexperience.com%2F_img%2Fo_collection_png%2Fgreen_dark_grey%2F512x512%2Fplain%2Fworkstation.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/green_dark_grey/128x128/plain/factory.png"
         },       
         {
           "fid": "5",
           "name": "channel 5",
-          "image": "https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconexperience.com%2F_img%2Fo_collection_png%2Fgreen_dark_grey%2F512x512%2Fplain%2Fcashier.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/green_dark_grey/128x128/plain/lightbulb_on.png"
         },       
         {
           "fid": "6",
           "name": "channel 6",
-          "image": "https://images.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconexperience.com%2F_img%2Fo_collection_png%2Fgreen_dark_grey%2F512x512%2Fplain%2Fbicycle.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/green_dark_grey/128x128/plain/wind_engine.png"
         }
     ]
 }
