@@ -32,7 +32,7 @@
          "channelId":"1",
          "name":"Item 1.1 from External REST call",
          "notes":"Some notes here",
-         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/1/19/RTVE_Testcard.jpg",
+         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/6/62/Braxton_university_logo.png",
          "filePath":"https://upload.wikimedia.org/wikipedia/commons/1/19/RTVE_Testcard.jpg",
          "md5":"AHSCOWQA912S129S"
       },
@@ -43,7 +43,7 @@
          "channelId":"1",
          "name":"Item 1.2 from External REST call",
          "notes":"Some notes here",
-         "thumbnail":"https://thumbs.dreamstime.com/z/tv-transmission-test-card-3552906.jpg",
+         "thumbnail":"https://upload.wikimedia.org/wikipedia/en/1/1f/University_of_Ontario_Institute_of_Technology_Coat_of_Arms.png",
          "FilePath":"https://thumbs.dreamstime.com/z/tv-transmission-test-card-3552906.jpg",
          "md5":"AHSCOWQA912S129S"
       },
@@ -76,7 +76,7 @@
          "channelId":"1",
          "name":"Item 4 from External REST call",
          "notes":"Some notes here",
-         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_018.jpg",
+         "thumbnail":"https://upload.wikimedia.org/wikipedia/en/9/91/Central_Queensland_University_%28coat_of_arms%29.png",
          "FilePath":"https://upload.wikimedia.org/wikipedia/commons/f/fd/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_018.jpg",
          "md5":"AHSCOWQA912S129S"       
       },
