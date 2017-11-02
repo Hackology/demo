@@ -120,32 +120,44 @@
         {
           "fid": "1",
           "name": "channel 1 with more text. let´s see what happens",
-          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/signboard_for_rent.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/signboard_for_rent.png",
+          "Color": "#c72b26",
+          "Icon": "\uf2b5"
         },      
         {
           "fid": "2",
           "name": "channel 2",
-          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/signboard_for_sale.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/signboard_for_sale.png",
+          "Color": "#66cccc",
+          "Icon": "\uf19c"
         },       
         {
           "fid": "3",
           "name": "channel 3",
-          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/signboard_sold.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/signboard_sold.png",
+          "Color": "#fac120",
+          "Icon": "\uf1b9"
         },        
         {
           "fid": "4",
           "name": "channel 4",
-          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/houses.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/houses.png",
+          "Color": "#ffb366",
+          "Icon": "\uf083"    
         },       
         {
           "fid": "5",
           "name": "channel 5",
-          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/office_building2.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/office_building2.png",
+          "Color": "#66ff99",
+          "Icon": "\uf0c2"                
         },       
         {
           "fid": "6",
           "name": "channel 6",
-          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/shelf_full.png"
+          "image": "https://www.iconexperience.com/_img/o_collection_png/orange_dark_grey/128x128/plain/shelf_full.png",
+          "Color": "#99ccff",
+          "Icon": "\uf1bc"  
         }
     ]
 }
