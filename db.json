@@ -126,25 +126,25 @@
         {
           "fid": "2",
           "name": "channel 2",
-          "Color": "#66cccc",
+          "Color": "#99cccc",
           "Icon": "\uf19c"
         },       
         {
           "fid": "3",
           "name": "channel 3",
-          "Color": "#fac120",
+          "Color": "#fac160",
           "Icon": "\uf1b9"
         },        
         {
           "fid": "4",
           "name": "channel 4",
-          "Color": "#ffb366",
+          "Color": "#ffb396",
           "Icon": "\uf083"    
         },       
         {
           "fid": "5",
           "name": "channel 5",
-          "Color": "#66ff99",
+          "Color": "#76dd99",
           "Icon": "\uf0c2"                
         },       
         {
