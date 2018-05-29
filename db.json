@@ -35,15 +35,15 @@
          "identifier":"IdoftheElement 1.1. Large string",
          "version": 1,
          "channelId":"1",
-         "name":"Item 1.1 from External REST call",
+         "name":"Pdf file 1",
          "notes":"Some notes here",
-         "thumbnail":"http://actorresumed.com/wp-content/uploads/2017/04/business-plans-samples-pdf-sample-business-plan-examples_41304.png",
+         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IRS_1990_EO_CPE_Text_P1-52.pdf/page1-463px-IRS_1990_EO_CPE_Text_P1-52.pdf.jpg",
          "filePath":"http://www.movilidad.ulpgc.es/wp-content/uploads/2017/04/CONVOCATORIA-KA107-2016-18-Doctorado.pdf",
          "md5":"AHSCOWQA912S129S"
       },
       {             
          "fid":"1.2",
-         "identifier":"IdoftheElement 1.2. Large string",
+         "identifier":"Car image 1.2",
          "version": 1,
          "channelId":"1",
          "name":"Item 1.2 from External REST call",
@@ -57,9 +57,9 @@
          "identifier":"IdoftheElement 2. Large string",
          "version":1,
          "channelId":"1",
-         "name":"Item 2 from External REST call",
+         "name":"Pdf file 2",
          "notes":"Some notes here",
-         "thumbnail":"http://actorresumed.com/wp-content/uploads/2017/04/business-plans-samples-pdf-sample-business-plan-examples_41304.png",
+         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IRS_1990_EO_CPE_Text_P1-52.pdf/page1-463px-IRS_1990_EO_CPE_Text_P1-52.pdf.jpg",
          "FilePath":"http://www.movilidad.ulpgc.es/wp-content/uploads/2017/04/CONVOCATORIA-KA107-2016-18-Doctorado.pdf",
          "md5":"AHSCOWQA912S129S"
       },
@@ -68,9 +68,9 @@
          "identifier":"IdoftheElement 3. Large string",
          "version":1,
          "channelId":"1",
-         "name":"Item 3 from External REST call. lets write some more text here, I want to check big names.",
+         "name":"Pdf file 3",
          "notes":"Some notes here",
-         "thumbnail":"http://actorresumed.com/wp-content/uploads/2017/04/business-plans-samples-pdf-sample-business-plan-examples_41304.png",
+         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IRS_1990_EO_CPE_Text_P1-52.pdf/page1-463px-IRS_1990_EO_CPE_Text_P1-52.pdf.jpg",
          "FilePath":"https://boe.es/legislacion/documentos/ConstitucionCASTELLANO.pdf",
          "md5":"AHSCOWQA912S129S"      
       },
@@ -79,7 +79,7 @@
          "identifier":"IdoftheElement 4. Large string",
          "version":1,
          "channelId":"1",
-         "name":"Item 4 from External REST call",
+         "name":"Car image 4",
          "notes":"Some notes here",
          "thumbnail":"http://autostylez.net/wp-content/uploads/2016/10/BMC-Extreme-Customs-Dodge-Challenger-Body-Kit.jpg",
          "FilePath":"http://autostylez.net/wp-content/uploads/2016/10/BMC-Extreme-Customs-Dodge-Challenger-Body-Kit.jpg",
@@ -90,7 +90,7 @@
          "identifier":"IdoftheElement 5. Large string",
          "version":1,
          "channelId":"1",
-         "name":"Item 5 from External REST call",
+         "name":"Car image 5",
          "notes":"Some notes here",
          "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/d/d2/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_014.jpg",
          "FilePath":"https://upload.wikimedia.org/wikipedia/commons/d/d2/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_014.jpg",
@@ -101,7 +101,7 @@
          "identifier":"IdoftheElement 3. Large string",
          "version":1,
          "channelId":"1",
-         "name":"Item 6 from External REST call",
+         "name":"Car image 6",
          "notes":"Some notes here",
          "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_016.jpg",
          "FilePath":"https://upload.wikimedia.org/wikipedia/commons/3/3e/Brian_Snelson%27s_photos_of_the_London_to_Brighton_Veteran_Car_Run_2009_-_016.jpg",
@@ -112,7 +112,7 @@
          "identifier":"IdoftheElement 7. Large string",
          "version":1,
          "channelId":"1",
-         "name":"Item 7 from External REST call",
+         "name":"Car image 7",
          "notes":"Some notes here",
          "thumbnail":"https://drivingtothefuture.files.wordpress.com/2011/11/ferdinand-porsche-1903-lohner-porsche.jpg",
          "FilePath":"https://drivingtothefuture.files.wordpress.com/2011/11/ferdinand-porsche-1903-lohner-porsche.jpg",
@@ -124,73 +124,73 @@
       
         {
           "fid": "1",
-          "name": "channel 1 with more text. let´s see what happens",
+          "name": "Kunde A",
           "Color": "#c72b26",
           "Icon": "\uf2b5"
         },      
         {
           "fid": "2",
-          "name": "channel 2",
+          "name": "Kunde B",
           "Color": "#99cccc",
           "Icon": "\uf19c"
         },       
         {
           "fid": "3",
-          "name": "channel 3",
+          "name": "Produkt A",
           "Color": "#fac160",
           "Icon": "\uf1b9"
         },        
         {
           "fid": "4",
-          "name": "channel 4",
+          "name": "Produkt B",
           "Color": "#ffb396",
           "Icon": "\uf083"    
         },       
         {
           "fid": "5",
-          "name": "channel 5",
+          "name": "Produkt C",
           "Color": "#76dd99",
           "Icon": "\uf0c2"                
         },       
         {
           "fid": "6",
-          "name": "channel 6",
+          "name": "Produkt D",
           "Color": "#99ccff",
           "Icon": "\uf1b3"  
         },
                 {
           "fid": "7",
-          "name": "channel 1 with more text. let´s see what happens",
+          "name": "Produkt E",
           "Color": "#c72b26",
           "Icon": "\uf2b5"
         },      
         {
           "fid": "8",
-          "name": "channel 2",
+          "name": "Produkt F",
           "Color": "#66cccc",
           "Icon": "\uf19c"
         },       
         {
           "fid": "9",
-          "name": "channel 3",
+          "name": "Produkt G",
           "Color": "#fac120",
           "Icon": "\uf1b9"
         },        
         {
           "fid": "10",
-          "name": "channel 4",
+          "name": "Produkt H",
           "Color": "#ffb366",
           "Icon": "\uf083"    
         },       
         {
           "fid": "11",
-          "name": "channel 5",
+          "name": "Produkt I",
           "Color": "#66ff99",
           "Icon": "\uf0c2"                
         },       
         {
           "fid": "12",
-          "name": "channel 6",
+          "name": "Produkt J",
           "Color": "#99ccff",
           "Icon": "\uf1b3"  
         }
