@@ -124,7 +124,7 @@
       
         {
           "fid": "1",
-          "name": "Kunde A",
+          "name": "Beispielkunde",
           "Color": "#c72b26",
           "Icon": "\uf2b5"
         },      
@@ -136,9 +136,9 @@
         },       
         {
           "fid": "3",
-          "name": "Produkt A",
+          "name": "Produkt FILERO",
           "Color": "#fac160",
-          "Icon": "\uf1b9"
+          "Icon": "\uf1c0"
         },        
         {
           "fid": "4",
