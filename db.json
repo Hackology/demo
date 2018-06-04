@@ -115,8 +115,8 @@
          "channelId":"1",
          "name":"CeBIT 2015 08",
          "notes":"Some notes here",
-         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IRS_1990_EO_CPE_Text_P1-52.pdf/page1-463px-IRS_1990_EO_CPE_Text_P1-52.pdf.jpg",
-         "filePath":"\\\\TECHSUPPORTNRS/FILERO2Go_example_files/Produkt/FILERO_ADAS_Flyer_2017.pdf",
+         "thumbnail":"https://www.dropbox.com/s/jkovfnv1uv4b4bc/CeBIT_2015_08.JPG",
+         "filePath":"https://www.dropbox.com/s/jkovfnv1uv4b4bc/CeBIT_2015_08.JPG",
          "md5":"AHSCOWQA912S129S"
       },
       {             
@@ -126,8 +126,8 @@
          "channelId":"1",
          "name":"cebit partner 2018 04",
          "notes":"Some notes here",
-         "thumbnail":"http://1.bp.blogspot.com/-AjlDHTRpEvo/TaB5utL3tjI/AAAAAAAAdaM/cRv1p-5-Lzw/s1600/chris-brown-lamborghini-gallardo-p-51-mustang-2.jpg",
-         "FilePath":"https://media.defense.gov/2009/Jun/15/2000552820/-1/-1/0/090611-F-1419D-105.JPG",
+         "thumbnail":"https://www.dropbox.com/s/w4iblao2u00hz9f/cebit_partner_2018_04.png",
+         "FilePath":"https://www.dropbox.com/s/3tsr2kv0mqh1umb/cebit_partner_2018_04.pdf",
          "md5":"AHSCOWQA912S129S"
       },
       {             
@@ -137,8 +137,8 @@
          "channelId":"1",
          "name":"cebit transformation 2018 04",
          "notes":"Some notes here",
-         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IRS_1990_EO_CPE_Text_P1-52.pdf/page1-463px-IRS_1990_EO_CPE_Text_P1-52.pdf.jpg",
-         "FilePath":"\\\\TECHSUPPORTNRS/FILERO2Go_example_files/Produkt/FILERO_ADAS_Flyer_2017.pdf",
+         "thumbnail":"https://www.dropbox.com/s/gpl9t2kiegv0w6s/cebit_transformation_2018_04.png",
+         "FilePath":"https://www.dropbox.com/s/kcl79vwo6y92w6p/cebit_transformation_2018_04.pdf",
          "md5":"AHSCOWQA912S129S"
       },
       {        
@@ -148,8 +148,8 @@
          "channelId":"1",
          "name":"Einlieferungsbeleg Fehldruck EN Flyer Partnership und Digital Transformation",
          "notes":"Some notes here",
-         "thumbnail":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/IRS_1990_EO_CPE_Text_P1-52.pdf/page1-463px-IRS_1990_EO_CPE_Text_P1-52.pdf.jpg",
-         "FilePath":"https://boe.es/legislacion/documentos/ConstitucionCASTELLANO.pdf",
+         "thumbnail":"https://www.dropbox.com/s/cly6ynz76w07obp/Einlieferungsbeleg_Fehldruck_EN_Flyer_Partnership_und_Digital_Transformation.jpg",
+         "FilePath":"https://www.dropbox.com/s/cly6ynz76w07obp/Einlieferungsbeleg_Fehldruck_EN_Flyer_Partnership_und_Digital_Transformation.jpg",
          "md5":"AHSCOWQA912S129S"      
       },
       {       
@@ -159,8 +159,19 @@
          "channelId":"1",
          "name":"IMG 0233",
          "notes":"Some notes here",
-         "thumbnail":"http://autostylez.net/wp-content/uploads/2016/10/BMC-Extreme-Customs-Dodge-Challenger-Body-Kit.jpg",
-         "FilePath":"http://autostylez.net/wp-content/uploads/2016/10/BMC-Extreme-Customs-Dodge-Challenger-Body-Kit.jpg",
+         "thumbnail":"https://www.dropbox.com/s/2dup12r47k7vddo/IMG_0233.JPG",
+         "FilePath":"https://www.dropbox.com/s/2dup12r47k7vddo/IMG_0233.JPG",
+         "md5":"AHSCOWQA912S129S"       
+      },
+      {       
+         "fid":"19",
+         "identifier":"Einlieferungsbeleg",
+         "version":1,
+         "channelId":"1",
+         "name":"Einlieferungsbeleg Fehldruck EN Flyer Partnership und Digital Transformation",
+         "notes":"Some notes here",
+         "thumbnail":"https://www.dropbox.com/s/2dup12r47k7vddo/IMG_0233.JPG",
+         "FilePath":"https://www.dropbox.com/s/2dup12r47k7vddo/IMG_0233.JPG",
          "md5":"AHSCOWQA912S129S"       
       }
   ],
