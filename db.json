@@ -110,7 +110,7 @@
          
          {  
          "fid":"11.1",
-         "identifier":"IdoftheElement 1.1. Large string",
+         "identifier":"asd",
          "version": 1,
          "channelId":"1",
          "name":"CeBIT 2015 08",
@@ -121,7 +121,7 @@
       },
       {             
          "fid":"11.2",
-         "identifier":"Car image 1.2",
+         "identifier":"asdasd",
          "version": 1,
          "channelId":"1",
          "name":"cebit partner 2018 04",
@@ -132,7 +132,7 @@
       },
       {             
          "fid":"12",
-         "identifier":"IdoftheElement 2. Large string",
+         "identifier":"asdasdasd",
          "version":1,
          "channelId":"1",
          "name":"cebit transformation 2018 04",
@@ -143,7 +143,7 @@
       },
       {        
          "fid":"18",
-         "identifier":"IdoftheElement 3. Large string",
+         "identifier":"asdasdasdasd",
          "version":1,
          "channelId":"1",
          "name":"Einlieferungsbeleg Fehldruck EN Flyer Partnership und Digital Transformation",
@@ -154,7 +154,7 @@
       },
       {       
          "fid":"14",
-         "identifier":"IdoftheElement 4. Large string",
+         "identifier":"aa",
          "version":1,
          "channelId":"1",
          "name":"IMG 0233",
