@@ -2,28 +2,70 @@
 "itemSummary": [
       
       {
-          "fid": "1.1",
+          "fid": "1",
           "version": 1,
           "md5": "AHSCOWQA912S129S"
       },   
       
       {
-          "fid": "1.2",
+          "fid": "2",
           "version": 1,
           "md5": "AHSCOWQA912S129S"
       }, 
       {
-          "fid": "8",
+          "fid": "3",
           "version": 1,
           "md5": "AHSCOWQA912S129S"
       },   
       {
-          "fid": "2",
+          "fid": "4",
           "version": 1,
           "md5": "AHSCOWQA912S129S"
-      },  
+      },
+            {
+          "fid": "5",
+          "version": 1,
+          "md5": "AHSCOWQA912S129S"
+      },   
+      
       {
-          "fid": "4",
+          "fid": "6",
+          "version": 1,
+          "md5": "AHSCOWQA912S129S"
+      }, 
+      {
+          "fid": "7",
+          "version": 1,
+          "md5": "AHSCOWQA912S129S"
+      },   
+      {
+          "fid": "10",
+          "version": 1,
+          "md5": "AHSCOWQA912S129S"
+      },
+            {
+          "fid": "11",
+          "version": 1,
+          "md5": "AHSCOWQA912S129S"
+      },   
+      
+      {
+          "fid": "12",
+          "version": 1,
+          "md5": "AHSCOWQA912S129S"
+      }, 
+      {
+          "fid": "13",
+          "version": 1,
+          "md5": "AHSCOWQA912S129S"
+      },   
+      {
+          "fid": "14",
+          "version": 1,
+          "md5": "AHSCOWQA912S129S"
+      }, 
+      {
+          "fid": "15",
           "version": 1,
           "md5": "AHSCOWQA912S129S"
       }
@@ -31,7 +73,7 @@
 
    "items":[
       {  
-         "fid":"1.1",
+         "fid":"1",
          "identifier":"IdoftheElement 1.1. Large string",
          "version": 1,
          "channelId":"3",
@@ -42,7 +84,7 @@
          "md5":"AHSCOWQA912S129S"
       },
       {             
-         "fid":"1.2",
+         "fid":"2",
          "identifier":"Car image 1.2",
          "version": 1,
          "channelId":"3",
@@ -53,7 +95,7 @@
          "md5":"AHSCOWQA912S129S"
       },
       {             
-         "fid":"2",
+         "fid":"3",
          "identifier":"IdoftheElement 2. Large string",
          "version":1,
          "channelId":"3",
@@ -64,7 +106,7 @@
          "md5":"AHSCOWQA912S129S"
       },
       {        
-         "fid":"8",
+         "fid":"4",
          "identifier":"IdoftheElement 3. Large string",
          "version":1,
          "channelId":"3",
@@ -75,7 +117,7 @@
          "md5":"AHSCOWQA912S129S"      
       },
       {       
-         "fid":"4",
+         "fid":"5",
          "identifier":"IdoftheElement 4. Large string",
          "version":1,
          "channelId":"3",
@@ -86,7 +128,7 @@
          "md5":"AHSCOWQA912S129S"       
       },
       {            
-         "fid":"5",
+         "fid":"6",
          "identifier":"IdoftheElement 5. Large string",
          "version":1,
          "channelId":"3",
@@ -97,7 +139,7 @@
          "md5":"AHSCOWQA912S129S"     
       },
       {            
-         "fid":"6",
+         "fid":"7",
          "identifier":"IdoftheElement 3. Large string",
          "version":1,
          "channelId":"3",
@@ -109,7 +151,7 @@
       },
          
          {  
-         "fid":"11.1",
+         "fid":"10",
          "identifier":"asd",
          "version": 1,
          "channelId":"1",
@@ -120,7 +162,7 @@
          "md5":"AHSCOWQA912S129S"
       },
       {             
-         "fid":"11.2",
+         "fid":"11",
          "identifier":"asdasd",
          "version": 1,
          "channelId":"1",
@@ -142,7 +184,7 @@
          "md5":"AHSCOWQA912S129S"
       },
       {        
-         "fid":"18",
+         "fid":"13",
          "identifier":"asdasdasdasd",
          "version":1,
          "channelId":"1",
@@ -164,7 +206,7 @@
          "md5":"AHSCOWQA912S129S"       
       },
       {       
-         "fid":"19",
+         "fid":"15",
          "identifier":"Einlieferungsbeleg",
          "version":1,
          "channelId":"1",
