@@ -1,109 +1,86 @@
 {
-"itemSummary": [
-      
+"itemSummary": [  
       {
           "fid": "1",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       },   
-      
       {
           "fid": "2",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       }, 
       {
           "fid": "3",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       },   
       {
           "fid": "4",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       },
             {
           "fid": "5",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       },   
-      
       {
           "fid": "6",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       }, 
       {
           "fid": "7",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
-      },{
+      },
+      {
           "fid": "8",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
-      },{
+      },
+      {
           "fid": "9",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       },   
       {
           "fid": "10",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       },
-            {
+      {
           "fid": "11",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       },   
-      
       {
           "fid": "12",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       }, 
       {
           "fid": "13",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       },   
       {
           "fid": "20",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       },
       {
           "fid": "21",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       },
       {
           "fid": "22",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       },
       {
           "fid": "23",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       },
       {
           "fid": "30",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       },
       {
           "fid": "31",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       }, 
       {
           "fid": "32",
           "version": 1,
-          "md5": "AHSCOWQA912S129S"
       }
   ],
-
    "items":[
       {  
          "fid":"1",
@@ -114,7 +91,6 @@
          "notes":"Some notes here",
          "thumbnail":"https://www.dropbox.com/s/x6syll1wastj72a/Broschuere_Altbausanierung.png",
          "filePath":"https://www.dropbox.com/s/6f7i5ype43b6o5v/Broschuere_Altbausanierung.pdf",
-         "md5":"AHSCOWQA912S129S"
       },
       {             
          "fid":"2",
@@ -125,7 +101,6 @@
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/jy6ok2yrolih0hv/Broschuere_iso3_Fensterdichtsystem.png",
          "FilePath":"https://www.dropbox.com/s/o4r8fi753qfhxad/Broschuere_iso3_Fensterdichtsystem.pdf",
-         "md5":"AHSCOWQA912S129S"
       },
       {             
          "fid":"3",
@@ -136,7 +111,6 @@
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/0clmqzoatau2fvy/iso-bloco_one_5_4c.jpg",
          "FilePath":"https://www.dropbox.com/s/0clmqzoatau2fvy/iso-bloco_one_5_4c.jpg",
-         "md5":"AHSCOWQA912S129S"
       },
       {        
          "fid":"4",
@@ -146,8 +120,7 @@
          "name":"iso-bloco one 7 4c",
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/a8uqdyi6qdsrkfs/iso-bloco_one_7_4c.jpg",
-         "FilePath":"https://www.dropbox.com/s/a8uqdyi6qdsrkfs/iso-bloco_one_7_4c.jpg",
-         "md5":"AHSCOWQA912S129S"      
+         "FilePath":"https://www.dropbox.com/s/a8uqdyi6qdsrkfs/iso-bloco_one_7_4c.jpg",  
       },
       {       
          "fid":"5",
@@ -157,8 +130,7 @@
          "name":"iso-bloco one 9 4c",
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/zzgto246jbpya1v/iso-bloco_one_9_4c.JPG",
-         "FilePath":"https://www.dropbox.com/s/zzgto246jbpya1v/iso-bloco_one_9_4c.JPG",
-         "md5":"AHSCOWQA912S129S"       
+         "FilePath":"https://www.dropbox.com/s/zzgto246jbpya1v/iso-bloco_one_9_4c.JPG",    
       },
       {            
          "fid":"6",
@@ -169,7 +141,6 @@
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/wks4oqrzekv4on9/iso-connect_Outside_EPDM.jpg",
          "FilePath":"https://www.dropbox.com/s/wks4oqrzekv4on9/iso-connect_Outside_EPDM.jpg",
-         "md5":"AHSCOWQA912S129S"     
       },
       {            
          "fid":"7",
@@ -179,8 +150,7 @@
          "name":"iso-connect-vario-sd-10-einbau",
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/fnn0tv5kpfdsy7g/iso-connect-vario-sd-10-einbau.jpg",
-         "FilePath":"https://www.dropbox.com/s/fnn0tv5kpfdsy7g/iso-connect-vario-sd-10-einbau.jpg",
-         "md5":"AHSCOWQA912S129S"      
+         "FilePath":"https://www.dropbox.com/s/fnn0tv5kpfdsy7g/iso-connect-vario-sd-10-einbau.jpg",    
       },
          
          {  
@@ -192,7 +162,6 @@
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/klyq9ymjzrbdv1b/iso-connect-vario-sd-11-einbau-grauer%20HG.jpg",
          "filePath":"https://www.dropbox.com/s/klyq9ymjzrbdv1b/iso-connect-vario-sd-11-einbau-grauer%20HG.jpg",
-         "md5":"AHSCOWQA912S129S"
       },
       {             
          "fid":"9",
@@ -203,7 +172,6 @@
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/p3rpg8xkzx20xsl/Montagebild_ACRYLSEAL_F.jpg",
          "FilePath":"https://www.dropbox.com/s/p3rpg8xkzx20xsl/Montagebild_ACRYLSEAL_F.jpg",
-         "md5":"AHSCOWQA912S129S"
       },
       {             
          "fid":"10",
@@ -214,7 +182,6 @@
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/414bp7e8u68nyxk/Produktkatalog_Abdichtungsloesungen_DE.png",
          "FilePath":"https://www.dropbox.com/s/pab4vx82sgsvdxu/Produktkatalog_Abdichtungsloesungen_DE.pdf",
-         "md5":"AHSCOWQA912S129S"
       },
       {        
          "fid":"11",
@@ -225,7 +192,6 @@
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/mpti4sc2luald8c/Verarbeitungsrichtlinien_ISO-BLOCO_Multifunktionsband.png",
          "FilePath":"https://www.dropbox.com/s/a1gxtztu46kkrtd/Verarbeitungsrichtlinien_ISO-BLOCO_Multifunktionsband.pdf",
-         "md5":"AHSCOWQA912S129S"      
       },
       {       
          "fid":"12",
@@ -236,7 +202,6 @@
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/k01dqa6sz2bvukn/Verarbeitungsrichtlinien_ISO-BLOCO-One.png",
          "FilePath":"https://www.dropbox.com/s/4thyshfrrl1coyz/Verarbeitungsrichtlinien_ISO-BLOCO-One.pdf",
-         "md5":"AHSCOWQA912S129S"       
       },
       {       
          "fid":"13",
@@ -247,7 +212,6 @@
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/fvazhesttyxb7pw/Verarbeitungsrichtlinien_ISO-CONNECT_DE.png",
          "FilePath":"https://www.dropbox.com/s/39k1sasvut61s33/Verarbeitungsrichtlinien_ISO-CONNECT_DE.pdf",
-         "md5":"AHSCOWQA912S129S"       
       },
       {       
          "fid":"20",
@@ -258,7 +222,6 @@
          "notes":"Some notes here",
          "thumbnail":"https://www.dropbox.com/s/erfg9mrao7yh57t/Firmenpr%C3%A4sentation%20ISO-Chemie%20GmbH%20DE.png",
          "FilePath":"https://www.dropbox.com/s/rtqr4l1b3wfxu1b/Firmenpr%C3%A4sentation%20ISO-Chemie%20GmbH%20DE.pdf",
-         "md5":"AHSCOWQA912S129S"       
       },
       {       
          "fid":"21",
@@ -269,7 +232,6 @@
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/3vj3mdoglu64hf0/Imagebroschuere.png",
          "FilePath":"https://www.dropbox.com/s/hpik0c45xtd2l48/Imagebroschuere.pdf",
-         "md5":"AHSCOWQA912S129S"       
       },
       {       
          "fid":"22",
@@ -280,7 +242,6 @@
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/54i9lupx7dy0ah0/ISO14001_2015%20DE.png",
          "FilePath":"https://www.dropbox.com/s/wuxqx31d24b5vnx/ISO14001_2015%20DE.pdf",
-         "md5":"AHSCOWQA912S129S"       
       },
       {       
          "fid":"23",
@@ -291,7 +252,6 @@
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/4ic5xn6ip3cuqqv/ISO%209001_%202015%20DE.png",
          "FilePath":"https://www.dropbox.com/s/07spwns6fndkd9b/ISO%209001_%202015%20DE.pdf",
-         "md5":"AHSCOWQA912S129S"       
       },
       {       
          "fid":"30",
@@ -302,7 +262,6 @@
          "notes":"Some notes here",
          "thumbnail":"https://www.dropbox.com/s/twhaxb7qteia5kz/Bestellformular%20ISO-MODEL%20DE.png",
          "FilePath":"https://www.dropbox.com/s/wzkcocecf64lfwt/Bestellformular%20ISO-MODEL%20DE.pdf",
-         "md5":"AHSCOWQA912S129S"       
       },
       {       
          "fid":"31",
@@ -313,7 +272,6 @@
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/9boovbikvcmcmmx/Montageprotokoll_ISO-Chemie.png",
          "FilePath":"https://www.dropbox.com/s/f18q8vzw4qii40i/Montageprotokoll_ISO-Chemie.pdf",
-         "md5":"AHSCOWQA912S129S"       
       },
       {       
          "fid":"32",
@@ -324,7 +282,6 @@
          "notes":"",
          "thumbnail":"https://www.dropbox.com/s/l8u3kg3w2jh19r9/Pruefberichteuebersicht.png",
          "FilePath":"https://www.dropbox.com/s/6f7613qiykx2u2o/Pruefberichteuebersicht.pdf",
-         "md5":"AHSCOWQA912S129S"       
       }
   ],
   
