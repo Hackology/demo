@@ -285,8 +285,7 @@
       }
   ],
   
-  "channels":[
-      
+  "channels":[      
         {
           "fid": "1",
           "name": "ISO-Chemie_Fensterabdichtung",
@@ -295,7 +294,7 @@
         },          {
           "fid": "2",
           "name": "ISO-Chemie_Firma",
-          "Color": "#202a24",
+          "Color": "#40BE8D",
           "Icon": "\uf2bb"
         },          
         {
@@ -303,7 +302,6 @@
           "name": "ISO-Chemie_Technik&Training",
           "Color": "#fac160",
           "Icon": "\uf19d"
-        }
-        
+        }        
     ]
 }
